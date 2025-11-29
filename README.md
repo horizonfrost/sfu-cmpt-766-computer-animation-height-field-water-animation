@@ -10,16 +10,15 @@ School of Computer Science, Simon Fraser University
 Demos associated with the assignment can be accessed using:
 
 - [Microsoft Sharepoint Link](https://1sfu-my.sharepoint.com/:v:/g/personal/yga135_sfu_ca/Eel7_x91tbFHh12EUOZWXCQBsTpBAGurmoI_WMVo2yz73w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nD9x8d)
-- [YouTube Demo Video](https://youtu.be/cSX34gM4xLc)
 
 ## Other Links
-- [Full Project Code - Github Link] (https://github.com/horizonfrost/sfu-cmpt-766-computer-animation-height-field-water-animation)
+- [Full Project Code - Github Link](https://github.com/horizonfrost/sfu-cmpt-766-computer-animation-height-field-water-animation)
 - [Presentation Link](https://1sfu-my.sharepoint.com/:p:/g/personal/yga135_sfu_ca/EW-c6I_gWeRNoLQ6_oUCQxsBoefho9UIfxIwhJzTkFY8xQ?e=GhwAie)
 
 
 ## Unity Setup
 
-- To begin, open the github project: [Github Link] (https://github.com/horizonfrost/sfu-cmpt-766-computer-animation-height-field-water-animation)
+- To begin, open the github project: [Github Link](https://github.com/horizonfrost/sfu-cmpt-766-computer-animation-height-field-water-animation)
 - Click 'Code' > 'Download zip' > extract sfu-cmpt-766-computer-animation-height-field-water-animation-main.zip
 - Open the extracted folder sfu-cmpt-766-computer-animation-height-field-water-animation-main as a Unity project in Unity Hub
 - select 2022.3.62f2 as the editor version
