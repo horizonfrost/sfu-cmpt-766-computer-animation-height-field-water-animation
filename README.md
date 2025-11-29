@@ -7,7 +7,7 @@ School of Computer Science, Simon Fraser University
 
 ---
 ## Demo Links
-Demos associated with the assignment can be accessed using:
+Demo associated with this project can be accessed using:
 
 - [Microsoft Sharepoint Link](https://1sfu-my.sharepoint.com/:v:/g/personal/yga135_sfu_ca/Eel7_x91tbFHh12EUOZWXCQBsTpBAGurmoI_WMVo2yz73w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nD9x8d)
 
