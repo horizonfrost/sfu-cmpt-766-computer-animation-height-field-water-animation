@@ -25,11 +25,14 @@ Demo associated with this project can be accessed using:
 - Once the project is opened, open the scene in Assets → Scenes → 'Water sim' to begin the demo.
 
 ## Run the Code
-- After opening the 'Water sim' scene, press the 'Play' button
-- You will see a pool of water with three balls in it
-- The water surface should animate with floating balls interacting with waves.
-- Now you can perform any of the below steps:
-    - grab any ball and drop it from a height and you will see water ripples
-    - every ball has a different density: the green ball will float but the gray ball will get submerged in the water completely. The medium density white ball will get submerged 3/4th and while the 1/4th top is above the water
-    - you can also move the balls horizontally to see waves being generated
-    - If you drag the green ball towards the bottom of the pool and then leave it, it will bounce back and come to the surface automatically 
+- Open the `Water sim` scene in Unity and press the Play button.
+- You will see a pool of water with three balls floating in it. The water surface animates interactively with the balls.
+
+### Interactions:
+- Grab any ball using mouse and drop it from a height to generate ripples in the water.
+- Ball densities vary:
+    - Green ball – floats on the surface.
+    - White ball – partially submerges (~3/4 submerged).
+    - Gray ball – fully submerges.
+- Move balls horizontally to see waves propagate.
+- Drag the green ball to the bottom and release it – it will bounce back and rise to the surface automatically.
